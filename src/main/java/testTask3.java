@@ -13,7 +13,7 @@ public class testTask3 {
         }
         for( int i = 0; i< array.length; i++){
             if(array[i]%3==0){
-                System.out.println(array[i]);
+                System.out.print(array[i] + " ");
 
             }
         }
